@@ -5,9 +5,9 @@ detector_edit3.py -> printing x,y coordinates for the 'yolov8m' model <br>
 detector_edit5.py -> Outputs: Tracking ID, 3D position, Velocity, 3D dimensions, bounding box 2D & 3D <br>
 detector_edit9.py -> Depth to the relevant object (z co-ordinate) <br>
 detector_edit13.py -> Speed is 0.001s and <br>
-test6.py -> <br>
-test7.py -> <br>
-test8.py -> <br>
+test6.py -> Detecting the mask (you can replace the ' .pt' file with your own pt file. <br>
+test7.py -> Co-ordinates of the detected object's bounding box <br>
+test8.py -> 3D position co-ordinates <br>
 
 3D position - Provides the 3D position of the object according to the camera as a 3D vector (x,y,z). <br>
 Velocity - Provides the velocity of the object in space as a 3D vector (x,y,z). <br>
